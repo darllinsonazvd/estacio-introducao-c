@@ -64,15 +64,15 @@ int main()
 
   // Menu de escolha
   printf("\n=== Escolha o atributo para comparar ===\n");
-  printf("1 - Estado (string)\n");
-  printf("2 - Codigo (string)\n");
-  printf("3 - Nome da cidade (string)\n");
-  printf("4 - Populacao (int)\n");
-  printf("5 - Area (float)\n");
-  printf("6 - PIB (float)\n");
-  printf("7 - Pontos turisticos (int)\n");
-  printf("8 - Densidade populacional (float)\n");
-  printf("9 - PIB per capita (float)\n");
+  printf("1 - Estado\n");
+  printf("2 - Codigo\n");
+  printf("3 - Nome da cidade\n");
+  printf("4 - Populacao\n");
+  printf("5 - Area\n");
+  printf("6 - PIB\n");
+  printf("7 - Pontos turisticos\n");
+  printf("8 - Densidade populacional\n");
+  printf("9 - PIB per capita\n");
   printf("Opcao: ");
   scanf("%d", &opcao);
 
